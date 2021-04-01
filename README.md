@@ -1,7 +1,7 @@
 # GAT_proteomics
 ## proteomics network classification with GAT <h2> 
 ### Workflow <h3> 
-![GitHub Logo](/images/Model_plot.png)
+![GitHub Logo](/images/net200_glab0.png)
 
 # Prerequisites
   Users need to install python (https://www.python.org/downloads/) and some python packages:
